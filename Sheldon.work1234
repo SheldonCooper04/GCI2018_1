@@ -1,1 +1,15 @@
 
+#printing  "GCI is great"
+for i in range(10):
+    print ( "GCI is great")
+
+#printing second task
+
+x = input("Enter your Name")
+print("hey",x,"nice to meet you")
+
+
+#third task
+y = x[-1:-100:-1]
+x = print("hey",x,"do you that your name backwards spell as",y)
+
